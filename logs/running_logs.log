@@ -236,3 +236,9 @@ Traceback (most recent call last):
     input_shape=self.config.params_image_size,
                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 AttributeError: 'NoneType' object has no attribute 'params_image_size'
+[2024-03-25 17:41:35,915: INFO: utils: NumExpr defaulting to 4 threads.]
+[2024-03-25 17:41:37,988: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-25 17:41:37,995: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-25 17:41:38,000: INFO: common: created directory at: artifacts]
+[2024-03-25 17:41:38,005: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-25 17:41:39,218: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
