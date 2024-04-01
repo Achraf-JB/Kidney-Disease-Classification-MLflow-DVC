@@ -262,3 +262,18 @@ AttributeError: 'NoneType' object has no attribute 'params_image_size'
 [2024-03-28 13:35:04,568: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-03-28 14:58:08,809: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-28 14:58:08,824: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-28 14:58:08,826: INFO: common: created directory at: artifacts]
+[2024-03-28 14:59:26,365: INFO: common: json file saved at: scores.json]
+[2024-03-28 14:59:39,814: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-03-28 14:59:41,473: INFO: builder_impl: Assets written to: C:\Users\HP\AppData\Local\Temp\tmpt5ksgrns\model\data\model\assets]
+[2024-03-28 15:10:06,433: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-28 15:10:06,469: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-28 15:10:06,469: INFO: common: created directory at: artifacts]
+[2024-03-28 15:13:44,333: INFO: common: json file saved at: scores.json]
+[2024-03-28 15:13:59,231: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-03-28 15:14:02,337: INFO: builder_impl: Assets written to: C:\Users\HP\AppData\Local\Temp\tmp3g172k9q\model\data\model\assets]
+[2024-03-28 15:36:29,057: INFO: utils: NumExpr defaulting to 4 threads.]
+[2024-03-28 15:38:24,175: INFO: utils: NumExpr defaulting to 4 threads.]
+[2024-03-28 15:39:36,025: INFO: utils: NumExpr defaulting to 4 threads.]
