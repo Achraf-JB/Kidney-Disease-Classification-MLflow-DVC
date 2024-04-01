@@ -160,3 +160,8 @@ cython_debug/
 #.idea/
 
 artifacts/*
+# Ignorer les répertoires de suivi de MLflow
+/mlruns
+
+# Ignorer les fichiers de suivi de MLflow
+mlruns.db

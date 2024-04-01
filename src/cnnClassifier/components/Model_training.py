@@ -1,7 +1,7 @@
 import urllib.request as request
 from zipfile import ZipFile
 import tensorflow as tf
-from src.cnnClassifier.entity.config_entity import (TrainingConfig)
+from cnnClassifier.entity.config_entity import (TrainingConfig)
 from pathlib import Path
 
 class Training:
